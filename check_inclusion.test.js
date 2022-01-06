@@ -1,4 +1,4 @@
-const { checkInclusion, areMapsEqual } = require("./checkInclusion");
+const { checkInclusion, areMapsEqual } = require("./check_inclusion");
 
 /** base map */
 const map1 = new Map([
